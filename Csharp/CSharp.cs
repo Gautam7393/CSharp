@@ -8,7 +8,7 @@ namespace MyApp
         public static void Main(string[]args)
         {
             BacicCsharpProgram.FindMax();
-            BacicCsharpProgram.FindOccurance();
+            //BacicCsharpProgram.FindOccurance();
             Console.ReadLine();
         }
     }

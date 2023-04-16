@@ -23,15 +23,9 @@ namespace Csharp.Cshapprogram
                 Console.WriteLine("Max is :" + n2);
             }
         }
+
+
     }
 
     
 }
-
-// code done
-
-
-aggshfhsfg
-
-
-    ghtrres
